@@ -22,4 +22,4 @@ The system extracts text from PDFs, creates a semantic index, and performs a dua
 2. Insert your OpenRouter API Key.
 3. Upload a PDF and start benchmarking!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/Your_File.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/22417010/Gemini-Intelligence-Benchmarking/blob/main/Your_File.ipynb)
